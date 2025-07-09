@@ -22,3 +22,23 @@ The color scheme is simple and high-contrast.
 
 ## Imagery
 The website uses high-quality, authentic photographs of people and their learning/working environment, which contributes to its community-focused and professional feel.
+
+Composition & Layout
+
+Rule of thirds: Place key elements along grid lines for visual balance
+White space: Don't overcrowd - let elements breathe
+Visual flow: Guide the eye from headline → key benefit → CTA
+Mobile-first: Design for vertical 9:16 ratio, test how it looks on small screens
+
+Brand Elements
+
+Logo placement: Subtle but visible, usually bottom corner
+Consistency: Match your brand's existing color scheme and fonts
+Trust indicators: Include any certifications, success rates, or testimonials
+
+Call-to-Action (CTA)
+
+Button design: Contrasting color that stands out from background
+Placement: Bottom third of image, easily tappable
+Language: "Let's Chat" or "Start Creating" rather than "Learn More"
+Urgency: Consider "Join Our Community" to emphasize belonging
