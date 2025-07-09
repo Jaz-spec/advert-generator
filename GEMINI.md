@@ -1,13 +1,5 @@
-This is a test run for designing adverts from a codebase so appreciate any suggestions for how to improve this process. My prompts are going to start brief and get more defined, so any help in refining the prompts in this file is also encouraged. 
+# Overview
+This codebase is going to act as a rudimentary image builder. We will build reusable UI components, with no function, that can be assembled,  transformed, and jigsawed together to creat on-brand images for our co-ops adverts. 
 
-This is the website I want to copy the style of: https://www.foundersandcoders.com/
-
-follow the design specs outlined in `design-specs.md`
-
-There is an image in the `static/` that I want included in this advert.
-
-The content of the advert is as follow:
-Header: Co-working at Founders and Coders
-second header: For applicants
-
-I want a canvas that is 1080x1350 px
+If I reference an 'image' I want you to search for it in the `static/` folder.
+If I reference a 'component' I want you to search in the $lib folder
