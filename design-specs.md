@@ -9,7 +9,8 @@ The website projects a clean, modern, and professional aesthetic. The design is 
 The color scheme is simple and high-contrast.
 *   **Primary Background:** White (`#FFFFFF`)
 *   **Primary Text:** Black (`#000000`)
-*   **Accent/Link Color:** A vibrant blue.
+*   **highlight/Link Color:** A vibrant blue.
+*   **Accent color** Yellow (`#ffe500`)
 
 ## Typography
 *   **Font Style:** The site uses a clean, sans-serif font for all body and header text, enhancing readability.
