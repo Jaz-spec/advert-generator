@@ -2,6 +2,8 @@ This is a test run for designing adverts from a codebase so appreciate any sugge
 
 This is the website I want to copy the style of: https://www.foundersandcoders.com/
 
+follow the design specs outlined in `design-specs.md`
+
 There is an image in the `static/` that I want included in this advert.
 
 The content of the advert is as follow:

@@ -1,3 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+}
+
+.canvas {
+    width: 1080px;
+    height: 1350px;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    position: relative;
+    overflow: hidden;
+}
+
+.canvas img {
+    width: 100%;
+    height: auto;
+}
+
+.text-content {
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    color: black;
+}
+
 h1 {
-    color: green;
+    font-size: 60px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 40px;
+    margin: 0;
+    color: #007bff; /* A standard blue, can be refined */
 }
